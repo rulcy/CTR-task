@@ -1,4 +1,0 @@
-先使用preprocess_CTR.py进行预处理。
-
-AAIN.py为一种显式特征交叉的CTR模型。
-Deep.py为神经网络模型。
